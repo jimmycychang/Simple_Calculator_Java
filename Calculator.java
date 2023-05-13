@@ -24,7 +24,7 @@ public class Calculator implements ActionListener{
 
         frame = new JFrame("Calculator");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(550,550);
+        frame.setSize(430,550);
         frame.setLayout(null);
 
         textfield = new JTextField();
